@@ -21,11 +21,11 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshot
-![](./screenshot/desktop-card.png)
-![](./screenshot/mobile-card.png)
-![](./screenshot/image-active-state.png)
-![](./screenshot/hidding-active-state.png)
-![](./screenshot/name-active-state.png)
+![](./Screenshot/desktop-card.png)
+![](./Screenshot/mobile-card.png)
+![](./Screenshot/image-active-state.png)
+![](./Screenshot/hidding-active-state.png)
+![](./Screenshot/name-active-state.png)
 
 
 
