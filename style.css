@@ -94,7 +94,7 @@ html{
     align-items: center;
   }
   .ava{
-    background-image: url(../nft-preview-card-component-main/images/image-avatar.png);
+    background-image: url(images/image-avatar.png);
     height: 30px;
     width: 30px;
     background-size: cover;
